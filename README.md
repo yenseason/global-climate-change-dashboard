@@ -1,8 +1,8 @@
 # Global Climate Change Dashboard
 
 ## Identitas Mahasiswa
-- Nama: **[ISI NAMA LENGKAP]**
-- NPM: **[ISI NPM]**
+- Nama: **Neysalva Calista Firlin**
+- NPM: **241051005**
 - Mata kuliah: Visualisasi Data
 - Program Studi: Sistem Informasi
 
@@ -12,11 +12,11 @@ Dashboard interaktif untuk mengeksplorasi perubahan suhu (temperature change) pa
 **Catatan interpretasi:** variabel pada dataset adalah perubahan suhu (°C), bukan suhu absolut. Data yang tidak tersedia dipertahankan sebagai missing value dan tidak diganti dengan nol.
 
 ## Live Dashboard
-**[ISI URL STREAMLIT COMMUNITY CLOUD SETELAH DEPLOYMENT]**
+**[https://global-climate-change-uts.streamlit.app/]**
 
 ## Sumber Dataset
 Dataset diunduh dari Kaggle:
-**[TEMPEL URL HALAMAN DATASET KAGGLE ASLI DI SINI]**
+**[https://www.kaggle.com/datasets/sevgisarac/temperature-change]**
 
 Pastikan tautan yang ditempel adalah halaman dataset yang benar-benar digunakan, bukan tautan pencarian Kaggle.
 
