@@ -18,10 +18,14 @@ Dashboard interaktif untuk mengeksplorasi perubahan suhu (temperature change) pa
 Dataset diunduh dari Kaggle:
 **[https://www.kaggle.com/datasets/sevgisarac/temperature-change]**
 
-Pastikan tautan yang ditempel adalah halaman dataset yang benar-benar digunakan, bukan tautan pencarian Kaggle.
-
 ## Latar Belakang
-Perubahan suhu merupakan salah satu indikator yang dapat digunakan untuk mengamati dinamika iklim. Dataset ini menyediakan pengamatan perubahan suhu menurut wilayah, bulan/periode, dan tahun. Dashboard membantu pengguna melihat tren waktu, membandingkan wilayah, serta mengamati variasi antarperiode.
+Perubahan iklim merupakan salah satu isu lingkungan global yang semakin mendapat perhatian karena dapat memengaruhi berbagai aspek kehidupan, seperti lingkungan, pertanian, kesehatan, dan aktivitas manusia. Salah satu indikator yang dapat digunakan untuk mengamati dinamika perubahan iklim adalah perubahan suhu. Dengan mengamati perubahan suhu dari tahun ke tahun, kita dapat memperoleh gambaran mengenai pola dan kecenderungan perubahan iklim yang terjadi di berbagai wilayah.
+
+Dataset yang digunakan dalam proyek ini menyediakan informasi perubahan suhu berdasarkan negara atau wilayah, bulan atau periode pengamatan, serta tahun, mulai dari 1961 hingga 2019. Data tersebut dapat dimanfaatkan untuk melihat perkembangan perubahan suhu dari waktu ke waktu, membandingkan kondisi antarwilayah, dan mengidentifikasi periode ketika perubahan suhu mengalami peningkatan maupun penurunan.
+
+Namun, data dalam jumlah besar sering kali sulit dipahami apabila hanya disajikan dalam bentuk tabel. Oleh karena itu, diperlukan pengolahan dan visualisasi data agar informasi yang terkandung di dalamnya dapat disampaikan secara lebih jelas, menarik, dan mudah dianalisis.
+
+Berdasarkan permasalahan tersebut, dibuatlah Global Climate Change Dashboard menggunakan Python, Pandas, Plotly, dan Streamlit. Dashboard ini dilengkapi dengan berbagai visualisasi interaktif, seperti line chart, bar chart, dan heatmap, serta fitur filter berdasarkan negara atau wilayah, rentang tahun, dan bulan atau periode pengamatan. Dengan adanya dashboard ini, pengguna diharapkan dapat mengeksplorasi data, memahami tren perubahan suhu, serta memperoleh informasi mengenai dinamika perubahan iklim berdasarkan data yang tersedia.
 
 ## Key Insights
 Berdasarkan agregasi data `World` untuk periode `Meteorological year`:
