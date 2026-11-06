@@ -86,5 +86,11 @@ Global_Climate_Change_UTS/
 4. Klik **Deploy** dan tunggu proses selesai.
 5. Salin URL aplikasi yang aktif ke bagian **Live Dashboard** di README.
 
-## Catatan
-Sebelum dikumpulkan, lengkapi Nama, NPM, URL dataset Kaggle, dan URL Live Dashboard. Uji seluruh filter serta pastikan repositori GitHub berstatus Public.
+## Kesimpulan
+Berdasarkan pembuatan Global Climate Change Dashboard, dapat disimpulkan bahwa visualisasi data dapat membantu memahami pola dan perkembangan perubahan suhu di berbagai negara atau wilayah selama periode 1961–2019. Melalui pengolahan data menggunakan Python dan Pandas, data perubahan suhu yang sebelumnya tersaji dalam format tabel dapat diolah menjadi informasi yang lebih terstruktur dan mudah dianalisis.
+
+Hasil analisis menunjukkan adanya kecenderungan peningkatan perubahan suhu pada data World. Rata-rata perubahan suhu selama periode pengamatan mencapai sekitar 0,524 °C, dengan nilai tertinggi pada tahun 2016 sebesar 1,674 °C dan nilai terendah pada tahun 1976 sebesar -0,311 °C. Selain itu, rata-rata perubahan suhu meningkat dari sekitar -0,022 °C pada dekade 1960-an menjadi 1,261 °C pada dekade 2010-an. Hal ini menunjukkan adanya tren peningkatan perubahan suhu dari waktu ke waktu.
+
+Penggunaan Streamlit dan Plotly membuat dashboard menjadi interaktif sehingga pengguna dapat mengeksplorasi data berdasarkan negara atau wilayah, rentang tahun, serta bulan atau periode pengamatan. Berbagai visualisasi, seperti line chart, bar chart, dan heatmap, juga membantu menyajikan informasi secara lebih menarik dan memudahkan perbandingan data.
+
+Dengan demikian, proyek ini menunjukkan bahwa penerapan Python, Pandas, Plotly, dan Streamlit dapat dimanfaatkan untuk mengolah, menganalisis, serta menyajikan data perubahan iklim dalam bentuk dashboard interaktif. Dashboard ini diharapkan dapat membantu pengguna memahami tren perubahan suhu dan meningkatkan kesadaran terhadap dinamika perubahan iklim berdasarkan data yang tersedia.
